@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 420px;
+    border: 3px solid rgb(0, 212, 202);
+    border-radius: 20px;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 400px;
+    /* border: 1px solid black; */
+    text-align: left;
+}
+#checkbox {
+    padding: 40px;
+}
+input {
+    border-radius: 10px;
+    height: 30px;
+    /* margin-bottom: 10px; */
+    font-size: 15px;
+    font-style: italic;
+ 
+    border: 1px solid gray;
+}
+button {
+    margin: 2px 0px 2px 0px;
+}
+label {
+    font-weight: 600;
+    margin-top: 5px;
+}
+#email-input {
+    width: 370px;
+}
+#check-btn {
+    border: none;
+    border-radius: 15px;
+    height: 35px;
+    margin-left: 10px;
+    width: 50px;
+}
+a {
+    color: rgb(68, 202, 247);
+}
+
+p {
+    font-size: 12px;
+}
+
+#signup-btn {
+    height: 30px;
+    width: 80px;
+    background-color: rgb(0, 212, 202);
+    border: none;
+    border-radius: 8px;
+}
+
+button:active {
+    background-color: rgb(4, 86, 82);
+    color: white;
+}
+
+#valid {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    border: 2px solid rgb(196, 193, 193);
+}
