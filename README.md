@@ -2,7 +2,7 @@
 
 1/ NGUYỄN THỦY TIÊN<br>
 2/ NGUYỄN TUẤN ANH (https://github.com/Harry-xdev)<br>
-3/ NGUYỄN THANH (https://github.com/thanhsonnguyen-gif)<br>
+3/ NGUYỄN THANH SƠN (https://github.com/thanhsonnguyen-gif)<br>
 
 link web (link cũ) : https://team2-group1.netlify.app/
 
